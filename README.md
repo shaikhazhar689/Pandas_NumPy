@@ -1,5 +1,5 @@
 # About
-## Project_Pandas-NumPy
+## Project Pandas & NumPy
 
 Introducing an exceptional data analysis project completed on the esteemed Google Coursera platform! Through this guided project, 
 I have acquired a treasure trove of skills, mastering the art of utilizing pandas and numpy for diverse calculations, statistics, and 
