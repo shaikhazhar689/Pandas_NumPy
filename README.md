@@ -1,5 +1,5 @@
 # About
-## Project Pandas & NumPy
+## Pandas & NumPy
 
 ### Project Overview:
 Welcome to the Numpy and Pandas Data Analysis Project, a comprehensive journey into the world of data analysis utilizing two powerful Python libraries, Numpy and Pandas. In this project, I've explored the fundamental concepts, techniques, and practical applications of these libraries, and I'm excited to share the knowledge and insights gained.
